@@ -1,0 +1,50 @@
+.container {
+    max-width: 600px;
+    margin: auto;
+    background-color: #f8f9fa; /* Light gray background color */
+    padding: 20px;
+    border-radius: 8px;
+  }
+  
+  .form-group {
+    margin-bottom: 15px;
+  }
+  
+  label {
+    margin-bottom: 5px;
+  }
+  
+  input {
+    width: 100%;
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+  
+  .form-check {
+    margin-right: 15px;
+  }
+  
+  .btn-primary {
+    background-color: #28a745; /* Green color for the button */
+    color: #fff;
+    border: 1px solid #218838; /* Slightly darker green for the border */
+  }
+  
+  .btn-primary:hover {
+    background-color: #218838; /* Darker green on hover */
+  }
+  
+  p {
+    margin-top: 15px;
+    color: #007bff; /* Blue color for the "Already registered?" text */
+  }
+  
+  a {
+    color: #0056b3; /* Darker blue for the link */
+  }
+  
+  a:hover {
+    text-decoration: underline; /* Underline on hover for the link */
+  }
+  
